@@ -32,7 +32,7 @@
 ![Login Page](./screenshots/Login (2).png)
 
 ### 📋 Homepage
-![Home](./screenshots/Homepage.png)
+![Home](./screenshots/Hompage.png)
 
 ### ✏️ Create Task
 ![AdminDashboard](./screenshots/Admin2.png)
@@ -41,7 +41,7 @@
 ![UserDashboard](./screenshots/User2.png)
 
 ### 🔐 SignUp Page
-![Sign Page](./screenshots/Signup2.png)
+![Signup Page](./screenshots/Signup2.png)
 
 
 ## 🛠️ Setup Instructions
