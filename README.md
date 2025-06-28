@@ -29,7 +29,7 @@
 ## 🖼️ Screenshots
 
 ### 🔐 Login Page
-![Login Page](./screenshots/Login (2).png)
+![Login Page](./screenshots/Login(2).png)
 
 ### 📋 Homepage
 ![Home](./screenshots/Hompage.png)
